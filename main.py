@@ -1,3 +1,4 @@
+# project in the Automate the Boring Things with Python book.
 import random
 def getAnswer(*answer_number):
     answer_number = {1: 'it is certain', 2: 'it is decidely so', 3: 'yes', 4: 'Reply hazy try again',
